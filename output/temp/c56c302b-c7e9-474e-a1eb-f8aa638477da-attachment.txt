@@ -1,0 +1,7 @@
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-输入账号下的('id', 'com.chazuo.college.enterprise:id/cet_phonenum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 登录页-输入账号下的('id', 'com.chazuo.college.enterprise:id/cet_phonenum')元素输入15521507903成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-输入密码下的('id', 'com.chazuo.college.enterprise:id/cet_password')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 登录页-输入密码下的('id', 'com.chazuo.college.enterprise:id/cet_password')元素输入test12345成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-点击登录下的('id', 'com.chazuo.college.enterprise:id/tv_login')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 登录页-点击登录下的('id', 'com.chazuo.college.enterprise:id/tv_login')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:156 登录页面下-输入错误的密码下的密码错误弹窗文本获取成功！

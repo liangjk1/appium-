@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20190718HKOM",
+    "children" : [ {
+      "name" : "7816-MainThread",
+      "children" : [ {
+        "name" : "testlogin_False1[15521507901-test123]",
+        "uid" : "a53ac29248ca0e5c",
+        "parentUid" : "4775527a767855d44d15dd989ff28f31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632120036070,
+          "stop" : 1632120041491,
+          "duration" : 5421
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test123'", "'15521507901'" ]
+      }, {
+        "name" : "test_login_sucess[15521507903-test123]",
+        "uid" : "b5a2b355eb93955f",
+        "parentUid" : "4775527a767855d44d15dd989ff28f31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632120045749,
+          "stop" : 1632120056730,
+          "duration" : 10981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test123'", "'15521507903'" ]
+      }, {
+        "name" : "test_selectcase[msg0]",
+        "uid" : "c475997faec48f35",
+        "parentUid" : "4775527a767855d44d15dd989ff28f31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632120056803,
+          "stop" : 1632120079245,
+          "duration" : 22442
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['有效管理问题员工']" ]
+      }, {
+        "name" : "testlogin_False2[15521507903-test12345]",
+        "uid" : "3b423e543f35370",
+        "parentUid" : "4775527a767855d44d15dd989ff28f31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632120041495,
+          "stop" : 1632120045745,
+          "duration" : 4250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test12345'", "'15521507903'" ]
+      }, {
+        "name" : "test_learn",
+        "uid" : "2a24bd82d7743b1d",
+        "parentUid" : "4775527a767855d44d15dd989ff28f31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1632120079317,
+          "stop" : 1632120125268,
+          "duration" : 45951
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4775527a767855d44d15dd989ff28f31"
+    } ],
+    "uid" : "3cfae68eabb0e4fd2442fa3cbcc5a038"
+  } ]
+}

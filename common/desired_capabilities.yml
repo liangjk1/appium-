@@ -1,0 +1,35 @@
+device1:
+  platformName: Android
+  platformVersion: 7.1.2
+  deviceName: 127.0.0.1:62001
+  appPackage: com.chazuo.college.enterprise
+  appActivity: .ui.MainActivityV2
+  noReset: True
+  fullReset: False
+  unicodeKeyboard: True
+  resetKeyboard: True
+  automationName: uiautomator2
+
+#  ip: 127.0.0.1
+#  port: 4723
+# adb shell dumpsys window windows | findstr mFocusedApp
+#device2:
+#  platformName: Android
+#  platformVersion: "10"
+#  deviceName: 4LWSPFMBPV85EMPR
+#  appPackage: com.tal.kaoyan
+#  appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+#  noReset: False
+#  app: E:\Python\APP\App\com.tal.kaoyan_3.8.1_liqucn.com.apk
+#  unicodeKeyboard: True
+#  resetKeyboard: True
+#device3:
+#  platformName: Android
+#  platformVersion: "10"
+#  deviceName: 4LWSPFMBPV85EMPR
+#  appPackage: com.youkagames.gameplatform
+#  appActivity: com.youkagames.gameplatform.activity.SplashActivity
+#  noReset: False
+#  app: E:\Python\xinWuJi\App\com.youkagames.gameplatform.apk
+#  unicodeKeyboard: True
+#  resetKeyboard: True

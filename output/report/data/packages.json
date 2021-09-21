@@ -1,0 +1,82 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_01login",
+    "children" : [ {
+      "name" : "testlogin_False1[15521507901-test123]",
+      "uid" : "a53ac29248ca0e5c",
+      "parentUid" : "99f7ce479b6dfb13e55dea12156f56cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632120036070,
+        "stop" : 1632120041491,
+        "duration" : 5421
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'test123'", "'15521507901'" ]
+    }, {
+      "name" : "testlogin_False2[15521507903-test12345]",
+      "uid" : "3b423e543f35370",
+      "parentUid" : "99f7ce479b6dfb13e55dea12156f56cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632120041495,
+        "stop" : 1632120045745,
+        "duration" : 4250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'test12345'", "'15521507903'" ]
+    }, {
+      "name" : "test_login_sucess[15521507903-test123]",
+      "uid" : "b5a2b355eb93955f",
+      "parentUid" : "99f7ce479b6dfb13e55dea12156f56cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632120045749,
+        "stop" : 1632120056730,
+        "duration" : 10981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'test123'", "'15521507903'" ]
+    } ],
+    "uid" : "99f7ce479b6dfb13e55dea12156f56cb"
+  }, {
+    "name" : "test_02selececase",
+    "children" : [ {
+      "name" : "test_selectcase[msg0]",
+      "uid" : "c475997faec48f35",
+      "parentUid" : "bdbcbcec05cdae0d9d6f74d206bfe181",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632120056803,
+        "stop" : 1632120079245,
+        "duration" : 22442
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['有效管理问题员工']" ]
+    } ],
+    "uid" : "bdbcbcec05cdae0d9d6f74d206bfe181"
+  }, {
+    "name" : "test_03learncase",
+    "children" : [ {
+      "name" : "test_learn",
+      "uid" : "2a24bd82d7743b1d",
+      "parentUid" : "7d60c133920a214c3ddd6e5fb26b3b40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632120079317,
+        "stop" : 1632120125268,
+        "duration" : 45951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7d60c133920a214c3ddd6e5fb26b3b40"
+  } ]
+}

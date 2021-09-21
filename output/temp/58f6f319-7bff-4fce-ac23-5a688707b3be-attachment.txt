@@ -1,0 +1,20 @@
+INFO     log_ri_zhi.logHandler:basePage.py:35 进入首页下的('id', 'com.chazuo.college.enterprise:id/day')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 进入首页下的('id', 'com.chazuo.college.enterprise:id/day')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 点击首页跳转下的('id', 'com.chazuo.college.enterprise:id/day')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 点击首页跳转下的('id', 'com.chazuo.college.enterprise:id/day')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 点击首页查询跳转下的('id', 'com.chazuo.college.enterprise:id/search_layout_main')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 点击首页查询跳转下的('id', 'com.chazuo.college.enterprise:id/search_layout_main')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 点击查询框下的('id', 'com.chazuo.college.enterprise:id/et_search')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 点击查询框下的('id', 'com.chazuo.college.enterprise:id/et_search')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 输入查询内容下的('id', 'com.chazuo.college.enterprise:id/et_search')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 输入查询内容下的('id', 'com.chazuo.college.enterprise:id/et_search')元素输入['有效管理问题员工']成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 点击查询下的('id', 'com.chazuo.college.enterprise:id/search_button')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 点击查询下的('id', 'com.chazuo.college.enterprise:id/search_button')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 切换课程查询内容下的('xpath', "//*[@text='课程']")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 切换课程查询内容下的('xpath', "//*[@text='课程']")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 选择已订阅课程下的('xpath', "//*[@text='已订阅']")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 选择已订阅课程下的('xpath', "//*[@text='已订阅']")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 进入文章阅读下的('xpath', "//*[@text='6个问题，轻松搞定问题员工']")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 进入文章阅读下的('xpath', "//*[@text='6个问题，轻松搞定问题员工']")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:177 向上滑动屏幕
+INFO     log_ri_zhi.logHandler:basePage.py:212 向右滑动屏幕

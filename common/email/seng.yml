@@ -1,0 +1,9 @@
+sendEmailUser: 364390447@qq.com # 发件人
+sendPassword: trqbcoxdmusabjcf # 授权码
+acceptEmailUser: 364390447@qq.com # 收件人
+title: 发给范范的一封信   # 标题
+contents:  # 正文内容
+  - 你好
+  - 这是接口自动化测试报告
+fileName: ../output/report/index.html  # 附件
+attachment: a.png # 图片

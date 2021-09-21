@@ -1,0 +1,12 @@
+INFO     log_ri_zhi.logHandler:basePage.py:35 进入首页下的('id', 'com.chazuo.college.enterprise:id/day')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 进入首页下的('id', 'com.chazuo.college.enterprise:id/day')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 点击首页跳转下的('id', 'com.chazuo.college.enterprise:id/day')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 点击首页跳转下的('id', 'com.chazuo.college.enterprise:id/day')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:177 向上滑动屏幕
+INFO     log_ri_zhi.logHandler:basePage.py:35 点击优秀学员按案例下的('xpath', "//*[@text='跟何川老师学习后，我在职场收获了什么？']")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 点击优秀学员按案例下的('xpath', "//*[@text='跟何川老师学习后，我在职场收获了什么？']")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 学习内容页面跳转下的('xpath', "//*[@text='于国皓：晋升副总并涨薪150%，我用了这3招']")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 学习内容页面跳转下的('xpath', "//*[@text='于国皓：晋升副总并涨薪150%，我用了这3招']")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 播放音频下的('xpath', "//*[@text='播放']")元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 播放音频下的('xpath', "//*[@text='播放']")元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:177 向上滑动屏幕

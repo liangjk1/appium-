@@ -1,0 +1,93 @@
+{
+  "uid" : "b5a2b355eb93955f",
+  "name" : "test_login_sucess[15521507903-test123]",
+  "fullName" : "test_01login.TestLogin#test_login_sucess",
+  "historyId" : "3b18f72d1bb00e0647a20562857e1050",
+  "time" : {
+    "start" : 1632120045749,
+    "stop" : 1632120056730,
+    "duration" : 10981
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1632120032920,
+      "stop" : 1632120036070,
+      "duration" : 3150
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bf5de8645d940699",
+      "name" : "log",
+      "source" : "bf5de8645d940699.txt",
+      "type" : "text/plain",
+      "size" : 3358
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('login')"
+  }, {
+    "name" : "suite",
+    "value" : "test_01login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "PC-20190718HKOM"
+  }, {
+    "name" : "thread",
+    "value" : "7816-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_01login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'test123'"
+  }, {
+    "name" : "user",
+    "value" : "'15521507903'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('login')" ]
+  },
+  "source" : "b5a2b355eb93955f.json",
+  "parameterValues" : [ "'test123'", "'15521507903'" ]
+}

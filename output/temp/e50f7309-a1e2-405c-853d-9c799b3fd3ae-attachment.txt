@@ -1,0 +1,22 @@
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-输入账号下的('id', 'com.chazuo.college.enterprise:id/cet_phonenum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 登录页-输入账号下的('id', 'com.chazuo.college.enterprise:id/cet_phonenum')元素输入15521507903成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-输入密码下的('id', 'com.chazuo.college.enterprise:id/cet_password')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 登录页-输入密码下的('id', 'com.chazuo.college.enterprise:id/cet_password')元素输入test123成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-点击登录下的('id', 'com.chazuo.college.enterprise:id/tv_login')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 登录页-点击登录下的('id', 'com.chazuo.college.enterprise:id/tv_login')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 判断是否成功登录下的('id', 'com.chazuo.college.enterprise:id/ll_loginbyphone')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:106 获取判断是否成功登录下的('id', 'com.chazuo.college.enterprise:id/ll_loginbyphone')元素文本  手机号登录成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 首页-服务协议勾选框下的('id', 'com.chazuo.college.enterprise:id/check_box_agree')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 首页-服务协议勾选框下的('id', 'com.chazuo.college.enterprise:id/check_box_agree')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 首页-手机号登录下的('id', 'com.chazuo.college.enterprise:id/ll_loginbyphone')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 首页-手机号登录下的('id', 'com.chazuo.college.enterprise:id/ll_loginbyphone')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 首页-切换密码登录下的('id', 'com.chazuo.college.enterprise:id/actionbar_right_btn')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 首页-切换密码登录下的('id', 'com.chazuo.college.enterprise:id/actionbar_right_btn')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-输入账号下的('id', 'com.chazuo.college.enterprise:id/cet_phonenum')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 登录页-输入账号下的('id', 'com.chazuo.college.enterprise:id/cet_phonenum')元素输入15521507903成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-输入密码下的('id', 'com.chazuo.college.enterprise:id/cet_password')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:88 登录页-输入密码下的('id', 'com.chazuo.college.enterprise:id/cet_password')元素输入test123成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 登录页-点击登录下的('id', 'com.chazuo.college.enterprise:id/tv_login')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:69 登录页-点击登录下的('id', 'com.chazuo.college.enterprise:id/tv_login')元素点击成功
+INFO     log_ri_zhi.logHandler:basePage.py:35 我的页面-获取登录用户名下的('id', 'com.chazuo.college.enterprise:id/tv_name')元素找到了
+INFO     log_ri_zhi.logHandler:basePage.py:106 获取我的页面-获取登录用户名下的('id', 'com.chazuo.college.enterprise:id/tv_name')元素文本  Hi，用户7903成功

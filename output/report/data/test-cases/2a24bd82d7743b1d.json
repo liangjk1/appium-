@@ -1,0 +1,87 @@
+{
+  "uid" : "2a24bd82d7743b1d",
+  "name" : "test_learn",
+  "fullName" : "test_03learncase.TestLearnCase#test_learn",
+  "historyId" : "201ea7c9ef5a5cadaba55defdf642e25",
+  "time" : {
+    "start" : 1632120079317,
+    "stop" : 1632120125268,
+    "duration" : 45951
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "homepage",
+    "time" : {
+      "start" : 1632120079252,
+      "stop" : 1632120079317,
+      "duration" : 65
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e2ae094e45d7639",
+      "name" : "log",
+      "source" : "6e2ae094e45d7639.txt",
+      "type" : "text/plain",
+      "size" : 1590
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('homepage')"
+  }, {
+    "name" : "suite",
+    "value" : "test_03learncase"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLearnCase"
+  }, {
+    "name" : "host",
+    "value" : "PC-20190718HKOM"
+  }, {
+    "name" : "thread",
+    "value" : "7816-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_03learncase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('homepage')" ]
+  },
+  "source" : "2a24bd82d7743b1d.json",
+  "parameterValues" : [ ]
+}
